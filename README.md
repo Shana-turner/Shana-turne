@@ -1,24 +1,18 @@
 # Hi, I'm Shana 👋
 I'm a web developer who's passionate about creating and constantly looking to solve new challenges. 
+| I did a bachelor's degree in e-business where I learned  |  I then continued my apprenticeship with a web developer training course where I learne   |  
+|----------------------------------------------------------|:-----------------------------------------------------------------------------------------:|
+| Project management |  Javascript |
+| Business analyst |    React   |  
+| E-commerce | Angular |  
+| Programming | Node.js/Express | 
+| Accounting | MongoDB | 
+| Design | Rest API | 
+| Marketing | HTML/css | 
 
-I did a bachelor's degree in e-business where I learned : 
-- Project management
-- Business analyst
-- E-commerce
-- Programming
-- Accounting
-- Design
-- Marketing
 
-I then continued my apprenticeship with a web developer training course where I learned : 
-- Javascript
-- React
-- Angular
-- Node.js/Express
-- MongoDB
-- Rest API
-
-### Me contacter
+---
+### Contact me
 **[Linkedin](https://www.linkedin.com/in/shana-biot/)**
 
 **[Portfolio]()**

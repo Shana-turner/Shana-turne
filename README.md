@@ -20,5 +20,7 @@ I then continued my apprenticeship with a web developer training course where I 
 
 ### Me contacter
 **[Linkedin](https://www.linkedin.com/in/shana-biot/)**
-**[Portfolio]**
+
+**[Portfolio]()**
+
 **[CV](https://www.canva.com/design/DAGKjXOUMIk/pP5g5ihwtjsECYi6IS00JQ/view?utm_content=DAGKjXOUMIk&utm_campaign=designshare&utm_medium=link&utm_source=editor)**

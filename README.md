@@ -15,6 +15,6 @@ I'm a web developer who's passionate about creating and constantly looking to so
 ### Contact me
 **[Linkedin](https://www.linkedin.com/in/shana-biot/)**
 
-**[Portfolio]()**
+**[Portfolio](https://shana-biot.carrd.co/)**
 
 **[CV](https://www.canva.com/design/DAGKjXOUMIk/pP5g5ihwtjsECYi6IS00JQ/view?utm_content=DAGKjXOUMIk&utm_campaign=designshare&utm_medium=link&utm_source=editor)**
